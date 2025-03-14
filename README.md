@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Latoya 🙋🏽‍♀️</h1>
 <h3 align="center">A frontend developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **my internship as Frontend Developer**
+- 🔭 I’m currently working as **a Frontend Develop intern**
 
 - 🌱 I’m currently learning **React, React Native and TypeScript**
 
